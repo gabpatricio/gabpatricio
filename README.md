@@ -1,4 +1,4 @@
-# Nice to meet you! I'm Gabriela and I'm a CompSci student with a bachelor degree in Business Administration.
+# Nice to meet you! I'm Gabriela and I'm a CompSci student with a bachelor's degree in Business Administration.
 ## Oi! Eu sou a Gabriela, formada em Administração e atual estudante de Ciência da Computação pela UniAmérica.
 
 
