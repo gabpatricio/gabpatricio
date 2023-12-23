@@ -4,7 +4,9 @@
  
 
 👩🏻‍💻 Working as a freelancer (Business Analyst) and Technical Support Analyst.
+
 🌱 Advanced level of MS Office (especially Excel).
+
 🧠 I'm comfortable working with Business Intelligence softwares and applications, such as Power BI and Google DataStudio.
 
 <img align="center" alt="Korean" height="15" width="20" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1f0-1f1f7.png"><img align="center" alt="English" height="15" width="20" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fa-1f1f8.png">  I speak intermediate Korean and advanced English. Fluent in Brazilian Portuguese.
