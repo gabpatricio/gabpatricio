@@ -5,7 +5,7 @@
 
 👩🏻‍💻 Working as a freelancer (Business Analyst) and Technical Support Analyst.
 
-🌱 Advanced level of MS Office (especially Excel).
+🌱 Advanced level of MS Office.
 
 🧠 I'm comfortable working with Business Intelligence softwares and applications, such as Power BI and Google DataStudio.
 
